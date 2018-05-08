@@ -5,7 +5,19 @@ Feature
 2. Right TouchPad Movement.
 3. VR Hands Model.
 4. Pick up Object.
-
+  
+  VR camera  
+<img src="https://github.com/shinn716/VR-FPS-Controller/blob/master/CamR.png" /></a>
+  
+  TouchPad  
+<img src="https://github.com/shinn716/VR-FPS-Controller/blob/master/Movement.png" /></a>
+  
+  Hands  
+<img src="https://github.com/shinn716/VR-FPS-Controller/blob/master/Grabbing.png" /></a>
+  
+Pick up  
+<img src="https://github.com/shinn716/VR-FPS-Controller/blob/master/PickUp.png" /></a>
+  
 Reference: 
 1. SteamVR
 2. VolumetricLights https://github.com/SlightlyMad/VolumetricLights
