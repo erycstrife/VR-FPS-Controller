@@ -5,6 +5,7 @@ Feature
 2. Right TouchPad Movement.
 3. VR Hands Model.
 4. Pick up Object.
+5. Teleporting.
   
   VR camera  
 <img src="https://github.com/shinn716/VR-FPS-Controller/blob/master/CamR.png" /></a>
