@@ -5,7 +5,7 @@
 3. VR 手勢模型(Trigger握手)
 4. 拿物件功能
 5. 瞬間移動
-    
+  
 Arrangement VR FPS commonly used functions, include...
 1. VR camera support VolumetricLights.
 2. Right TouchPad Movement.
